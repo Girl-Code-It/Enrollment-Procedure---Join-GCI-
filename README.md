@@ -26,7 +26,7 @@ The enrollment process for the indvidual courses along with the details of the c
 ### 🖥 Join us as a developer
 
 Wohoo!! We are excited to have you, our website is open-sourced, get started from here - [Girl Code It Website](https://github.com/Girl-Code-It/Girl-Code-It-Website-Frontend)
-*Drop an email to girlcodeit@gmail.com to be added in the communication channel.
+.Drop an email to girlcodeit@gmail.com to be added in the communication channel.
 
 ### 💰 Enrollment Fees
 
